@@ -7,8 +7,8 @@
 Reproducibility code for the paper:
 
 > **Phase-Fidelity-Aware Truncated Quantum Fourier Transform for Scalable Phase Estimation on NISQ Hardware**  
-> Akoramurthy S, Surendiran B  
-> Department of Electronics & Communication Engineering, NIT Puducherry  
+> Akoramurthy B, Surendiran B  
+> Department of Computer Science & Engineering, NIT Puducherry  
 > *Quantum* (submitted) · DOI: 10.22331/q-XXXX
 
 ---
@@ -211,7 +211,7 @@ pillow>=9.0
 @article{akoramurthy2025pfatqft,
   title   = {Phase-Fidelity-Aware Truncated Quantum Fourier Transform
              for Scalable Phase Estimation on NISQ Hardware},
-  author  = {Akoramurthy, S. and Surendiran, B.},
+  author  = {Akoramurthy, B. and Surendiran, B.},
   journal = {Quantum},
   year    = {2025},
   doi     = {10.22331/q-XXXX},
