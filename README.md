@@ -30,7 +30,7 @@ All simulation uses **exact linear-algebra statevector methods** — no approxim
 
 ```bash
 # Clone
-git clone https://github.com/nit-ece-qamp/pfa-tqft.git
+git clone https://github.com/akortheanchor/PFA-TQFT.git
 cd pfa-tqft
 
 # Install dependencies
