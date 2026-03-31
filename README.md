@@ -4,6 +4,9 @@
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-green.svg)](https://python.org)
 [![Journal: Quantum](https://img.shields.io/badge/Journal-Quantum-purple.svg)](https://quantum-journal.org)
 
+<img width="2720" height="1383" alt="PFA_TQFT_Illustration" src="https://github.com/user-attachments/assets/c101037c-fdf1-4a4d-b00b-605b8a7bb034" />
+
+
 Reproducibility code for the paper:
 
 > **Phase-Fidelity-Aware Truncated Quantum Fourier Transform for Scalable Phase Estimation on NISQ Hardware**  
