@@ -1,6 +1,6 @@
 # PFA-TQFT: Phase-Fidelity-Aware Truncated Quantum Fourier Transform
 
-[![CI](https://github.com/nit-ece-qamp/pfa-tqft/actions/workflows/ci.yml/badge.svg)](https://github.com/nit-ece-qamp/pfa-tqft/actions)
+[![CI](https://github.com/akortheanchor/PFA-TQFT)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Journal: Quantum](https://img.shields.io/badge/Journal-Quantum-purple)](https://quantum-journal.org)
@@ -9,11 +9,13 @@ Reproducibility repository for:
 
 > **Phase-Fidelity-Aware Truncated Quantum Fourier Transform  
 > for Scalable Phase Estimation on NISQ Hardware**  
-> Akoramurthy S, Surendiran B  
-> Department of ECE, NIT Puducherry, India  
-> *Quantum* (submitted 2025)
+> Akoramurthy B, Surendiran B  
+> Department of CSE, NIT Puducherry, India  
+> *Quantum* (submitted 2026)
 
 ---
+<img width="2720" height="1383" alt="PFA_TQFT_Illustration" src="https://github.com/user-attachments/assets/54efca73-7685-4334-976b-e09b341d16ac" />
+
 
 ## Overview
 
@@ -231,7 +233,7 @@ All simulation is pure linear algebra.
 @article{akoramurthy2025pfatqft,
   title   = {Phase-Fidelity-Aware Truncated Quantum Fourier Transform
              for Scalable Phase Estimation on NISQ Hardware},
-  author  = {Akoramurthy, S. and Surendiran, B.},
+  author  = {Akoramurthy, B. and Surendiran, B.},
   journal = {Quantum},
   year    = {2025},
   url     = {https://quantum-journal.org},
@@ -245,4 +247,4 @@ All simulation is pure linear algebra.
 
 MIT License — see [LICENSE](LICENSE).
 
-Copyright © 2025 Akoramurthy S, Surendiran B, NIT Puducherry.
+Copyright © 2025 Akoramurthy B, Surendiran B, NIT Puducherry.
