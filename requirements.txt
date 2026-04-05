@@ -1,4 +1,14 @@
+# Core dependencies
 numpy>=1.24
 scipy>=1.10
 matplotlib>=3.7
 pillow>=9.0
+
+# Development / testing
+pytest>=7.0
+pytest-cov>=4.0
+
+# Optional: Jupyter notebooks
+# jupyter>=1.0
+# ipykernel>=6.0
+# ipywidgets>=8.0
